@@ -40,7 +40,7 @@ a {
     color: #2e2f42;
 }
 
-.nav-link:hover, nav-link:focus {
+.nav-link:hover, .nav-link:focus {
    color: #404bbf
 }
 
@@ -173,4 +173,17 @@ h2 {
 
 .section-portfolio {
 text-transform: capitalize;
+}
+
+.team-text {
+    text-transform: capitalize;
+    line-height: 1.2;
+}
+
+.people {
+    background-color: #FFFFFF;
+}
+
+.section-onetext {
+    line-height: 1.07;
 }
