@@ -16,7 +16,7 @@ a {
     font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.16667;
+    line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     color: #4d5ae5;
@@ -24,10 +24,12 @@ a {
 
 .logo-part {
     color: #2e2f42;
+    line-height: 1.17;
 }
 
 .logo-footer {
     color: #f4f4fd;
+    line-height: 1.17;
 }
 
 .nav-link {
@@ -51,6 +53,7 @@ a {
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+    font-style: normal;
 }
 
 .contacts-link:hover, .contacts-link:focus {
@@ -68,7 +71,7 @@ a {
 h1 {
     font-weight: 700;
     font-size: 56px;
-    line-height: 1.07143;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #fff;
@@ -89,12 +92,16 @@ button:focus {
 
 .button-servise {
     color: #fff;
+    font-weight: 500;
+    line-height: 1.5;
+    letter-spacing: 0.04em;
+    cursor: pointer;
 }
 
 h2 {
     font-weight: 700;
     font-size: 36px;
-    line-height: 1.11111;
+    line-height: 1.11;
     letter-spacing: 0.02em;
     text-align: center;
     color: #2e2f42;
@@ -158,4 +165,12 @@ h2 {
 
 .section-team {
     background-color: #f4f4fd;
+}
+
+.page-text {
+    background-color: #FFFFFF
+}
+
+.section-text {
+    line-height: 1.07
 }
