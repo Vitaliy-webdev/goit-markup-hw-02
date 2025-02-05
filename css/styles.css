@@ -175,17 +175,17 @@ h2 {
 text-transform: capitalize;
 }
 
-.team-text {
-    text-transform: capitalize;
-    line-height: 1.2;
+.team-h {
+text-transform: capitalize;
+line-height: 1.2;
 }
 
 .people {
-    background-color: #FFFFFF;
+background-color: #FFFFFF;
 }
 
 .onetext {
-    line-height: 1.2;
+line-height: 1.2;
 }
 
 .business-h {
