@@ -1,6 +1,6 @@
 body {
     font-family: "Roboto", sans-serif;
-    color: #2e2f42;
+    color: #434455;
     background-color: #fff;
 }
 
@@ -41,7 +41,7 @@ a {
 }
 
 .nav-link:hover, nav-link:focus {
-    color: #404bbf;
+   color: #404bbf
 }
 
 .contacts {
@@ -78,10 +78,6 @@ h1 {
 }
 
 button {
-    padding-top: 16px;
-    padding-bottom: 32px;
-    width: 169px;
-    height: 56px;
     background-color: #4d5ae5;
 }
 
@@ -110,7 +106,7 @@ h2 {
 .text-section {
     font-weight: 500;
     font-size: 20px;
-    line-height: 1.2;
+    line-height: 1.07;
     letter-spacing: 0.02em;
     color: #2e2f42;
 }
@@ -168,9 +164,13 @@ h2 {
 }
 
 .page-text {
-    background-color: #FFFFFF
+    background-color: #FFFFFF;
 }
 
 .section-text {
-    line-height: 1.07
+    line-height: 1.07;
+}
+
+.section-portfolio {
+text-transform: capitalize;
 }
