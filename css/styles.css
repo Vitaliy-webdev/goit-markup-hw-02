@@ -167,17 +167,13 @@ h2 {
     background-color: #FFFFFF;
 }
 
-.section-text {
-    line-height: 1.07;
-}
-
-.section-portfolio {
+.portfolio-text {
 text-transform: capitalize;
 }
 
 .team-h {
 text-transform: capitalize;
-line-height: 1.2;
+line-height: 1.11;
 }
 
 .people {
