@@ -184,6 +184,10 @@ text-transform: capitalize;
     background-color: #FFFFFF;
 }
 
-.section-onetext {
-    line-height: 1.07;
+.onetext {
+    line-height: 1.2;
+}
+
+.business-h {
+line-height: 1.07;
 }
